@@ -4,7 +4,12 @@ A basic Spotify API Consumer made with ReactJS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Set Up
+## Technologies
+
+- [ReactJS](https://github.com/facebook/create-react-app)
+- [RoughNotation](https://roughnotation.com/)
+
+## Set Up
 
 To set up this project, you need to clone the repository:
 ```bash
