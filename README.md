@@ -16,8 +16,8 @@ Change your current directory to the project directory:
 $ cd react-spotify-api-consumer
 ```
 
-Before running the project, you will need both a Client ID and a Client Secret provided by [Spotify](https://developer.spotify.com/dashboard/).
-After acquiring your Client ID and Secret, change the constants in the file ```getSpotifyToken``` located in the utils folder accordingly.
+Before running the project, you will need both a Client ID and a Client Secret provided by [Spotify](https://developer.spotify.com/dashboard/).\
+After acquiring your Client ID and Secret, change the constants in the file ```getSpotifyToken``` located in the ```utils``` folder accordingly.
 
 ## Available Scripts
 
