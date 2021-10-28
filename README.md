@@ -13,10 +13,11 @@ $ git clone https://github.com/jfsax/react-spotify-api-consumer.git
 
 Change your current directory to the project directory:
 ```bash
-$ cd consuming-restful-api-in-react
+$ cd react-spotify-api-consumer
 ```
 
 Before running the project, you will need both a Client ID and a Client Secret provided by [Spotify](https://developer.spotify.com/dashboard/).
+After acquiring your Client ID and Secret, change the constants in the file ```getSpotifyToken``` located in the utils folder accordingly.
 
 ## Available Scripts
 
